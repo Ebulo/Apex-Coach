@@ -1,0 +1,2 @@
+1. The Photo should be of 230*234 px.
+2.Coaching-services Side way display nhi ho raha hai
